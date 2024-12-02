@@ -16,6 +16,7 @@ section{
 img {
     height: 200px;
 }
+
 .rapgeek1{
     display: flex;
     overflow-x: auto;
