@@ -16,7 +16,7 @@ section{
 img {
     height: 200px;
 }
-.filosofia-antiga{
+.rapgeek{
     display: flex;
     overflow-x: auto;
     gap: 10px;
